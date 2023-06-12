@@ -1,0 +1,29 @@
+ /* body {
+     background-color: rgba(173, 64, 173, 0.921);
+ } */
+ td,
+ th {
+     border: 1px solid;
+     padding: .5em;
+ }
+
+
+ table {
+     border-collapse: collapse;
+     /* width: 50%; */
+     margin-top: 2em;
+
+     /* text-align: center; */
+ }
+
+ .bi,
+ .bi-car-front {
+     display: flex;
+     justify-content: center;
+     color: black;
+ }
+
+ a {
+     text-decoration: none;
+
+ }
